@@ -52,6 +52,7 @@ h2 {
     font-size: 1.5em;
     margin-bottom: 10px;
 }
+
 section {
     margin-bottom: 30px;
 }
@@ -61,8 +62,17 @@ section ul {
     margin-left: 0;  
     padding-left: 0; 
 }
+
 section li {
     text-align: left;
+}
+
+a {
+    color:#fff;
+}
+
+a:hover {
+    color:#fff;
 }
 
 #btnnihpencet {
@@ -75,6 +85,7 @@ section li {
     transition: background 0.2s;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', 'Segoe UI', Roboto, Arial, sans-serif;
 }
+
 #btnnihpencet:hover {
     background-color: #3a3a3a;
 }
